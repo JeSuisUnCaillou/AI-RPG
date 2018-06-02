@@ -1,6 +1,8 @@
 # Large scale food management from the future
+* begin : you are hungry at home
+* end : you pay for your food delivery and eat
 
-## 1) 
+## 1)
 _Year 2050, It's the eivening, you are home and hungry. The bell rings._
 
 Ring Ring !
@@ -8,7 +10,7 @@ Ring Ring !
 * ignore the bell -> 1)
 * Insults -> 1) Polite Ring ! Polite Ring !
 
-## 2) 
+## 2)
 _You see a delivery robot with one green eye, handing you a warm box labelled 'Amazon Food Prime'_
 
 Good eivening citizen, here is your warm meal for tonight. It's spaghetti bolognaise.
