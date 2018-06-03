@@ -1,6 +1,7 @@
 # Large scale food management from the future
 * begin : you are hungry at home
 * end : you pay for your food delivery and eat
+* failure : you don't eat and sleep hungry
 
 ## 1)
 _Year 2050, It's the evening, you are home and hungry. The doorbell rings._
