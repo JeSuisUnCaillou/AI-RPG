@@ -1,4 +1,4 @@
-# Large scale food management from the future
+# Large scale food delivery from the future
 * begin : you are hungry at home
 * end : you pay for your food delivery and eat
 * failure : you don't eat and sleep hungry
@@ -63,7 +63,7 @@ It costs 8,55€. How would you like to pay for our service, citizen ? We accept
 
 You account as been debited of 8.55€. Thank you for choosing Amazon Food Prime.
 * Take the food, Ok thanks bye ! -> 11)
-* Slam the door
+* Slam the door -> 14)
 * Throw something at the robot -> 12)
 * Insults -> 13)
 
@@ -85,7 +85,7 @@ Understood, order canceled. Have a nice evening citizen.
 
 _It flies away, joining a small fleet of similar robots delivering food to your neighbors_
 
-* Close the door, and go on with my life
+* Close the door, and go on with my life -> GAME OVER
 * Throw something at the robot -> 12)
 * Insults -> 13)
 
@@ -108,9 +108,7 @@ _The bell rings_
 * -> 7) without first text
 
 ## 11)
-_The robot flies away, joining a small fleet of similar robots delivering food to your neighbors_
-
-_You take your food in, and text a friend about this funny robot you met_
+_You take your food, and the robot flies away, joining a small fleet of similar robots delivering food to your neighbors_
 
 _You spend a lovely evening eating your tandoori chicken, mmmmh, life is good._
 
@@ -131,3 +129,11 @@ _The robot shakes, it seems to be... laughing_
 
 Please stay polite or I won't be able to understand what you say
 * -> return
+
+## 14)
+_After few seconds, you hear the robotic voice through the door_
+
+You forgot your food citizen !
+* ignore -> 14)
+* open the door -> 11)
+
