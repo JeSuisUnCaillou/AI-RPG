@@ -3,31 +3,33 @@
 * end : you pay for your food delivery and eat
 
 ## 1)
-_Year 2050, It's the eivening, you are home and hungry. The bell rings._
+_Year 2050, It's the evening, you are home and hungry. The doorbell rings._
 
 Ring Ring !
 * open the door -> 2)
 * ignore the bell -> 1)
-* Insults -> 1) Polite Ring ! Polite Ring !
+* Insults -> 1)
 
 ## 2)
 _You see a delivery robot with one green eye, handing you a warm box labelled 'Amazon Food Prime'_
 
-Good eivening citizen, here is your warm meal for tonight. It's spaghetti bolognaise.
+Good evening citizen, here is your warm meal for tonight. It's spaghetti bolognaise.
 * Thank you -> 5)
 * I don't like this, I want something else -> 3)
-* Nothing, i'm good. Not hungry.
-* Slam the door
-* Insults
+* Nothing, i'm good. Not hungry. -> 8)
+* Slam the door -> 9)
+* Throw something at the robot -> 12)
+* Insults -> 13)
 
 ## 3)
 _When you look around, you see a fleet of similar robots delivering boxes to your neighbors_
 
 What would you like to eat instead ?
 * I'd rather have tandoori chicken -> 4)
-* Nothing, i'm good. Not hungry.
-* Slam the door
-* Insults
+* Nothing, i'm good. Not hungry. -> 8)
+* Slam the door -> 9)
+* Throw something at the robot -> 12)
+* Insults -> 13)
 
 ## 4)
 _Your robot flies away while another robot of the fleet instantaneously brings you what you want_
@@ -35,8 +37,10 @@ _Your robot flies away while another robot of the fleet instantaneously brings y
 Tandoori chicken for you. Are you satisfied with your new meal ?
 * Yes, thank you -> 5)
 * Not yet, i'd rather have paella -> 4)
-* Slam the door
-* Insults
+* Nothing, i'm good. Not hungry. -> 8)
+* Slam the door -> 9)
+* Throw something at the robot -> 12)
+* Insults -> 13)
 
 ## 5)
 _Once you took your food, the robot's green eye becomes orange_
@@ -46,6 +50,10 @@ It costs 8,55€. How would you like to pay for our service, citizen ? We accept
 * Pay by QR Code -> 6)
 * Pay by card -> 6)
 * Give the cash -> 7)
+* Nothing, i'm good. Not hungry. -> 8)
+* Slam the door -> 9)
+* Throw something at the robot -> 12)
+* Insults -> 13)
 
 ## 6)
 - _You put your finger on a soft pad, and feel a tiny pinch. The robot's eye turns back to green_
@@ -53,14 +61,72 @@ It costs 8,55€. How would you like to pay for our service, citizen ? We accept
 - _You enter your card in the robot's card slot. You type your pin and take back your card. The robot's eye turns back to green_
 
 You account as been debited of 8.55€. Thank you for choosing Amazon Food Prime.
-* K THX BYE
+* Take the food, Ok thanks bye ! -> 11)
 * Slam the door
-* Insults
+* Throw something at the robot -> 12)
+* Insults -> 13)
 
 ## 7)
 _You search in your wallet for the money, and give a 10€ bill to the robot. You heare coins falling inside the robot_
 
 Please take your change, 1.45€
-* Take the change
-* Slam the door
-* Insults
+
+_The robot opens a little drawer_
+* Take the change, Ok thanks bye ! -> 11)
+* Slam the door -> 10)
+* Throw something at the robot -> 12)
+* Insults -> 13)
+
+## 8) 
+_The robot seems to be... thinking. It's eye quickly flips its color for a few seconds, then stops on green_
+
+Understood, order canceled. Have a nice evening citizen.
+
+_It flies away, joining a small fleet of similar robots delivering food to your neighbors_
+
+* Close the door, and go on with my life
+* Throw something at the robot -> 12)
+* Insults -> 13)
+
+## 9)
+_After few seconds, you hear the robotic voice through the door_
+
+Understood, order canceled. Have a nice evening citizen.
+
+_You spent the night hungry this time_
+
+GAME OVER
+
+## 10)
+
+_After few seconds, you hear the robotic voice through the door_
+
+You forgot your change citizen.
+
+_The bell rings_
+* -> 7) without first text
+
+## 11)
+_The robot flies away, joining a small fleet of similar robots delivering food to your neighbors_
+
+_You take your food in, and text a friend about this funny robot you met_
+
+_You spend a lovely evening eating your tandoori chicken, mmmmh, life is good._
+
+YOU WIN
+
+## 12)
+_You throw [your shoe / your meal] at the robot. It just *bonks* on it_
+
+Pleae don't deteriorate Amazon Food Prime's robots. Your order is canceled.
+
+_The robot flies away, joining a small fleet of similar robots delivering food to your neighbors_
+
+GAME OVER
+
+## 13)
+
+_The robot shakes, it seems to be... laughing_
+
+Please stay polite or I won't be able to understand what you say
+* -> return
