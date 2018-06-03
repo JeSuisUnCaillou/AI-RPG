@@ -12,7 +12,7 @@ Ring Ring !
 * Insults -> 1)
 
 ## 2) greetings
-_You see a delivery robot with one green eye, handing you a warm box labelled 'Amazon Food Prime'_
+_You see a delivery robot with one green eye, handing you a warm box labelled 'Amazon Food Prime' ou 'Foodex'_
 
 Good evening citizen, here is your warm meal for tonight. It's spaghetti bolognaise.
 * Thank you -> 5)
