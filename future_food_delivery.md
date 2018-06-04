@@ -46,11 +46,13 @@ Tandoori chicken for you. Are you satisfied with your new meal ?
 ## 5) payment_request
 _Once you took your food, the robot's green eye becomes orange_
 
-It costs 8,55€. How would you like to pay for our service, citizen ? We accept DNA, Voice recognition, QR code, cards, and cash.
-* Give your DNA -> 6)
-* Pay by QR Code -> 6)
-* Pay by card -> 6)
-* Give the cash -> 7)
+It costs 8,55€. How would you like to pay for our service, citizen ?  
+We accept DNA identification, Voice identification, skin QR code, skin chips or older means of payments but with an additional tax:
+* Present the palm of your left hand so the robot can take a blood sample -> 6)
+* Say that you would like to pay by voice -> 6)
+* Present your left forearm with your personal QR code tatooed under the skin -> 6)
+* Present your right forearm with a RFID skin chip grafted just a few milimeters under your skin -> 6)
+* Say that you want to pay with an older mean of payment -> 7)
 * Nothing, i'm good. Not hungry. -> 8)
 * Slam the door -> 9)
 * Throw something at the robot -> 12)
@@ -67,8 +69,8 @@ You account as been debited of 8.55€. Thank you for choosing Amazon Food Prime
 * Throw something at the robot -> 12)
 * Insults -> 13)
 
-## 7) give_change
-_You search in your wallet for the money, and give a 10€ bill to the robot. You heare coins falling inside the robot_
+## 7) pay_with_older_mean_of_payment
+_You search in your wallet for the money, and give a 10€ bill to the robot. You hear the coins falling inside the robot_
 
 Please take your change, 1.45€
 
