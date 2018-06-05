@@ -9,7 +9,7 @@
 
 _Tu marches dans la rue, pas loin de chez toi, et croises un type avec un énorme chapeau. Assez étrange_
 
-Eh toi ! Ouais toi, pourquoi tu vois d'autres clanpins au bout de ton téléphone là ? Tu veux jouer à un jeu ?
+Eh toi ! Ouais toi, pourquoi tu vois d'autres clanpins au bout de ton téléphone là ? Tu veux pas jouer à un jeu avec moi ?
 
 _L'homme déploie un sourire digne des pire creepy pasta_
 
@@ -17,15 +17,22 @@ _L'homme déploie un sourire digne des pire creepy pasta_
 * Non, dégage -> game_not_accepted
 
 ## game_accepted
+Excellent Smitters ! Moi c'est Seth, et on voici ta première énigme.
 
-TODO
+_Il se retient visiblement de sourire en se bouffant la lèvre_
+
+Quel est la différence... entre un pigeon ?
+* Aucune. Les deux pattes ont la même taille, surtout la gauche.
+* Il ne sait ni voler.
+* je ne sais pas
+* [mauvaise réponse]
 
 ## game_not_accepted
 _L'homme a l'air sincèrement triste de ta réponse. Il réajuste son chapeau sur le côté - en mode coquin pense-t-il, mais ça le rend juste encore plus étrange._
 
-Boaaaah alleeeez ! Si tu gagnes, je t'offre 10€ IRL. Juré !
+Boaaaah alleeeez ! Si tu gagnes, je t'offre 100€ IRL. Juré !
 
-_L'homme crache par terre, mais se rate. Il essuie frénétiquement sa lèvre_
+_L'homme crache par terre, mais se rate. Il essuie frénétiquement sa lèvre, conscient d'avoir raté son effet_
 
 * lol le bolosse quoi
 * bon ok, tu me fait pitié
