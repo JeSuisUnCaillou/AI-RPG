@@ -68,7 +68,7 @@ Quel est la différence... entre un pigeon ?
 * [mauvaise réponse] -> bad_answer
 
 ## question_2
-_A force de discuter avec lui, tu n'as pas fait attention aux alentours. Mais tu remarques maintenant que tu es en Asie_
+_A force de discuter avec lui, tu n'as pas fait attention aux alentours. Mais tu as maintenant l'impression d'être... en Asie_
 * TODO
 
 ## question_3
@@ -76,7 +76,7 @@ _Les alentours ont encore mystérieusement changé. Tu as l'impression d'être d
 * TODO
 
 ## question_4
-_Cette fois tu as bien fait attention, mais rien n'y fait. Tu t'es encore fait surprendre par le changement de décor_
+_Cette fois tu as bien fait attention, mais rien n'y fait. Tu t'es encore fait surprendre par le changement de décor._
 * TODO
 
 
