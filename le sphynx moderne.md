@@ -98,7 +98,7 @@ A une condition : Tu dois ouvrir un compte dans... _il cherche rapidement autour
 ## you win_2
 _L'homme entre dans l'agence banquaire, ouvre un bureau, s'assoie dans le fauteuil du conseiller et te présente le siège dans lequel s'assoient habituellement les clients_
 
-Assieds-toi, on va régler les formalités ensemble. 
+Assieds-toi, on va régler les formalités ensemble. -> scénario d'onboarding
 
 ## you_loose
 _Tout excité par sa victoire, l'homme saute sur place comme un enfant qui aurait bouffé trop de sucres_
