@@ -1,4 +1,4 @@
-## Le Sphynx moderne
+# Le Sphynx moderne
 * begin: tu marches dans la rue et rencontre un type étrange qui te propose des énigmes contre de l'argent
 * end: tu as déjoué ses intrigues et il te donne de l'argent IRL !
 * fail: tu n'as pas déjoué ses intrigues et il te donne envie de rejouer pour la revanche
@@ -18,7 +18,10 @@ _L'homme déploie un sourire digne des pire creepy pasta_
 * Non, dégage -> game_not_accepted
 
 ## game_accepted
-Excellent Smitters ! Je me présente, moi c'est Sept, et on voici ta première énigme.
+Excellent Smitters ! Viens on marche un peu.
+
+Je me présente, moi c'est Sept, et on voici ta première énigme.
+
 -> Question 1
 
 ## bad_answer
@@ -64,9 +67,38 @@ Quel est la différence... entre un pigeon ?
 * je ne sais pas -> dunno
 * [mauvaise réponse] -> bad_answer
 
+## question_2
+_A force de discuter avec lui, tu n'as pas fait attention aux alentours. Mais tu remarques maintenant que tu es en Asie_
+* TODO
+
+## question_3
+_Les alentours ont encore mystérieusement changé. Tu as l'impression d'être dans un bazar algérien_
+* TODO
+
+## question_4
+_Cette fois tu as bien fait attention, mais rien n'y fait. Tu t'es encore fait surprendre par le changement de décor_
+* TODO
+
+
+## why_changing_decor
+TODO (il y a des indices dans les décors, genre coluche en indice de la question 1)
 
 ## you_win
-TODO
+_L'homme, déconfit, claque des doigts. Tu reconnais une rue près de chez toi_
+
+Tu es bien trop fort pour mes énigmes bas de plafond. Allez, tu mérites bien tes 100€.
+
+_L'homme retire son grand chapeau, il est désormais en costume propre_
+
+A une condition : Tu dois ouvrir un compte dans... _il cherche rapidement autour de lui_ ...cette banque !
+
+* OK -> you_win_2
+* Nope -> TODO
+
+## you win_2
+_L'homme entre dans l'agence banquaire, ouvre un bureau, s'assoie dans le fauteuil du conseiller et te présente le siège dans lequel s'assoient habituellement les clients_
+
+Assieds-toi, on va régler les formalités ensemble. 
 
 ## you_loose
 _Tout excité par sa victoire, l'homme saute sur place comme un enfant qui aurait bouffé trop de sucres_
@@ -79,7 +111,6 @@ Tu voudrais pas remonter dans le temps, pour une revanche, mmmh ? Il suffirait d
 
 * remonter dans le temps / recommencer -> intro
 * non merci, allez salut -> THE END
-
 
 ## the_end
 _Déçu, l'homme s'en va... en marchant à reculons et en maintenant le contact visuel. Creepy._
