@@ -19,14 +19,7 @@ _L'homme déploie un sourire digne des pire creepy pasta_
 
 ## game_accepted
 Excellent Smitters ! Je me présente, moi c'est Sept, et on voici ta première énigme.
-
-_Il se retient visiblement de sourire en se bouffant la lèvre_
-
-Quel est la différence... entre un pigeon ?
-* Aucune. Les deux pattes ont la même taille, surtout la gauche. -> good_answer
-* Il ne sait ni voler. -> good_answer
-* je ne sais pas -> dunno
-* [mauvaise réponse] -> bad_answer
+-> Question 1
 
 ## bad_answer
 _La musique de la boule noire de Motus résonne atour de vous, comme provenant de nulle part et partout à la fois._
@@ -61,6 +54,15 @@ _L'homme tente de cracher par terre, mais se rate. Il essuie piteusement sa lèv
 * lol le bolosse quoi
 * bon ok, tu me fait pitié -> game_accepted
 * non toujours pas -> the_end
+
+## question_1
+_Il se retient visiblement de sourire en se bouffant la lèvre_
+
+Quel est la différence... entre un pigeon ?
+* Aucune. Les deux pattes ont la même taille, surtout la gauche. -> good_answer
+* Il ne sait ni voler. -> good_answer
+* je ne sais pas -> dunno
+* [mauvaise réponse] -> bad_answer
 
 
 ## you_win
