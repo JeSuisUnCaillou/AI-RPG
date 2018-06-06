@@ -97,3 +97,5 @@ YiiiiHaaaa ! Quoi, j'en fait trop ?
 Mais j'ai été PRO-GRA-MMÉ comme ça, j'y peut rien moi !
 
 Mais au fait, tu vas te payer quoi avec ces 100€ ? Sans vouloir être indiscret... En fait si, en voulant carrément être indiscret. Tu vas t'acheter une vie ?
+
+* réponse -> stocker pour stats sur les intentions d'utilisation des 100€
