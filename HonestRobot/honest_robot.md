@@ -15,7 +15,7 @@ Bonjour humain, souhaiterais-tu gagner 100€ ? 78% des humains interrogés ont 
 ## game_accepted
 _L'écran du robot passe par toutes les couleurs de l'arc-en-ciel, il a l'air très emballé par la réponse reçue_
 
-Oh yessss, merci humain ! Beaucoup m'ont dit non [ce matin/cet après-mid/ce soir]. Mon module émotionnel tournait en mode dépression depuis 1 heure.
+Oh yessss ! Beaucoup m'ont dit non [ce matin/cet après-mid/ce soir]. Mon module émotionnel tournait en mode dépression depuis 1 heure, merci humain.
 
 * oui je veux vraiment / y'a pas de quoi ->  instructions
 * C'est quoi le module émotionnel ? -> TODO
@@ -34,7 +34,7 @@ TODO
 ## instructions
 Alors, pour ouvrir un compte, tu dois escalader l'Evrest à reculons en jouant de la cornemuse tout en écrivant une pièce de théatre en 8 actes sur l'esclavage en Grèce antique. Deal ?
 
-_Une inscription clignotante a remplaçé les yeux du robot. Il y est écrit 'Blague', 'Humour', 'Drôle'_
+_Une inscription clignotante a remplaçé les yeux du robot. Il y est alternativement écrit 'Blague', 'Humour', 'Drôle'_
 
 * non mais sérieusement, là -> serious_instructions
 * yeah, deal ! -> serious_instructions (absurd_deal_accepted: true)
@@ -87,7 +87,7 @@ Eh ben c'est nickel ! Si tu me donne ton accord, je t'ouvre un compte avec 100�
 ## open_account
 Parfait. Tu recevras un email à l'adresse toi@tonmail.com avec un lien vers ton nouveau compte banquaire.
 
-_Des feux d'artifices sortent du dos du robot, et la musique de victoire de Zelda rentit bien trop fort, et le robot se met à crier comme un cowboy en rut_
+_Des feux d'artifices sortent du dos du robot, la musique de victoire de Zelda rentit bien trop fort, et le robot se met à crier comme un cowboy en rut_
 
 YiiiiHaaaa ! Quoi, j'en fait trop ?
 
