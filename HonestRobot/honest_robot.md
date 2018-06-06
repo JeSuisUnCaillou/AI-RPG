@@ -49,13 +49,51 @@ En vrai, t'as juste à me fournir une pièce d'identité. Genre une photo de ta 
 Basique... Simple.
 
 * bouton photo/upload carte recto/verso -> verify_id_data
+* document non reconnu -> TODO
 
 ## verify_id_data
+_Un symbole de carte d'identité orange s'affiche sur son torse_
+
 _Le robot a des soubresauts comme si il était en train de se marrer_
 
-Haha, la tête ! Hum, pardon. Je ne suis pas censé me moquer des clients. Peux-tu vérifier les informations que j'ai lues ?
+Haha, la tête ! Hum, pardon. Je ne suis pas censé me moquer des clients. Peux-tu vérifier les informations que j'ai lues ? Je ne suis pas tout à fait sûr de savoir correctement lire...
 
-* bouton 'vérifier les informations' (voir marvel d'Henri avec les swipe left/right)
+* bouton 'vérifier les informations' (voir marvel d'Henri avec les swipe left/right) -> i_lied
+
+## i_lied
+_Un symbole de carte d'identité vert s'affiche sur son torse_
+
+Okay ! Merci pour ces confirmations. Bon je dois t'avouer quelque chose... En vrai j'ai besoin d'un deuxième document. C'est un justificatif de domicile. Genre une facture EDF, ou de téléphone mobile.
+
+Promesse de cyber-scout, c'est le dernier truc que je te demande ! Après ça, j'touvre le compte et à toi les 100 balles.
+
+* bouton photo/upload justificatif domocile -> verify_domicile_data
+* document non reconnu -> TODO
+
+## verify_domicile_data
+_Un symbole de maison orange s'affiche sur son torse_
+
+Tu peux vérifier ce que j'ai lu dans ton justificatif de domicile ? Ouais, je ne suis toujours pas sûr de savoir lire correctement. Peut-être d'ici quelques années, on m'aura upgrade, mais là...
+
+* bouton 'vérifier les informations' (voir marvel d'Henri avec les swipe left/right) -> upload_finished
+
+## upload_finished
+_Un symbole de maison vert s'affiche sur son torse_
+
+Eh ben c'est nickel ! Si tu me donne ton accord, je t'ouvre un compte avec 100€ dessus chez mabanquenligne. D'accord ?
+* d'accord -> open_account
+* pas d'accord -> TODO
 
 ## open_account
-TODO
+Parfait. Tu recevras un email à l'adresse toi@tonmail.com avec un lien vers ton nouveau compte banquaire.
+
+_Des feux d'artifices sortent du dos du robot, et la musique de victoire de Zelda rentit bien trop fort, et le robot se met à crier comme un cowboy en rut_
+
+YiiiiHaaaa ! Quoi, j'en fait trop ?
+
+* oui -> too_much
+
+## too_much
+Mais j'ai été PRO-GRA-MMÉ comme ça, j'y peut rien moi !
+
+Mais au fait, tu vas te payer quoi avec ces 100€ ? Sans vouloir être indiscret... En fait si, en voulant carrément être indiscret. Tu vas t'acheter une vie ?
